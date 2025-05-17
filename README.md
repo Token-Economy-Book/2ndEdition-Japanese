@@ -1,3 +1,11 @@
+⚠️ Outdated — This is the Japanese translation of the 2nd Edition of Token Economy (2020).
+https://github.com/Naokiakazawa/TokenEconomyBook_JP/wiki
+
+👉 Current 3rd Edition (2025):
+• GitHub landing repo → https://github.com/Token-Economy-Book/3rdEdition-English
+• Open-access web version → https://token.kitchen/token-economy/third-edition
+
+
 # Token Economy: How the Web3 reinvents the Internet
 Second edition, first amended printing, Nov 2020.<br>
 The first edition was published by BlockchainHub Berlin https://blockchainhub.net in June 2019 under the title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” and had two amended editions.
